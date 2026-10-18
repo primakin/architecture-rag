@@ -102,3 +102,10 @@
 | GPU      | RTX 4070 16 GB (или RTX 4090 24 GB, если брать с запасом) |
 | CPU      | 8+ ядер, Ryzen 7 7700X / i7-13700                                  |
 | RAM      | 64 GB DDR5                                                         |
+
+# Задание 2. Подготовка базы знаний
+- оригинальные документы: /knowledge_base/original
+- документы с замененными терминами: /knowledge_base/modified
+- скрипт замены терминов: /knowledge_base/replace_terms.py
+- словарь замен: /knowledge_base/terms_map.txt
+- за основу взята вселенная Пиратов Карибского моря
